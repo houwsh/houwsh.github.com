@@ -1,0 +1,10 @@
+@import "base/utilities";
+@import "base/solarized";
+@import "base/theme";
+@import "base/typography";
+@import "base/layout";
+.side-shadow-border,
+aside.sidebar section h1,
+aside.sidebar li,section h2{
+	box-shadow:0 1px white;
+}
